@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ganurathod07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganurathod07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ganesh-rathod-0341b1181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_4494497?term=linkedin&page=1&position=19&origin=tag&related_id=4494497" alt="ganurathod07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ganesh-rathod-0341b1181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="ganurathod07" height="30" width="40" /></a>
 <a href="https://instagram.com/ganurathod07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganurathod07" height="30" width="40" /></a>
 </p>
 
