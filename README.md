@@ -6,9 +6,8 @@
 - 🔭 I’m currently working on **Netflix Clone**
 - 🌱 I’m currently learning **React Js**
 - 🌱 I’m currently learning **Devops With Aws**
-- 
 - 👯 I’m looking to collaborate on **ProTeam**
-
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/Ganurathod07](https://github.com/Ganurathod07)
 
 - 📫 How to reach me **ganeshrathod3dev@gmail.com**
