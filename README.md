@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganurathod07&label=Profile%20views&color=0e75b6&style=flat" alt="ganurathod07" /> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
-- 🌱 I’m currently learning **React Js**
+- 🔭 I’m currently working on **Linux**
+- 🌱 I’m currently learning **Devops**
 - 🌱 I’m currently learning **Devops With Aws**
 - 👯 I’m looking to collaborate on **ProTeam**
 - 👨‍💻 All of my projects are available at [https://github.com/Ganurathod07](https://github.com/Ganurathod07)
